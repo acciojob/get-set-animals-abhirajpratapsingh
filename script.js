@@ -29,7 +29,3 @@ class Dog extends Animal {
     }
 }
 
-// Example usage
-const myCat = new Cat("Siamese");
-myCat.makeSound(); // Output: The Siamese makes a sound
-myCat.purr(); // Output: pu
